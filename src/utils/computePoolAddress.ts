@@ -1,7 +1,7 @@
 import { defaultAbiCoder } from '@ethersproject/abi'
 import { getCreate2Address } from '@ethersproject/address'
 import { keccak256 } from '@ethersproject/solidity'
-import { Token } from '@sigismund/sdk-core'
+import { Token } from '@airdao/sdk-core'
 import { FeeAmount, POOL_INIT_CODE_HASH } from '../constants'
 
 /**

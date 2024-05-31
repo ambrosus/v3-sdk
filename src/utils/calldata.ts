@@ -1,4 +1,4 @@
-import { BigintIsh } from '@sigismund/sdk-core'
+import { BigintIsh } from '@airdao/sdk-core'
 import JSBI from 'jsbi'
 
 /**

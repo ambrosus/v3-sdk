@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9 } from '@sigismund/sdk-core'
+import { Ether, Token, WETH9 } from '@airdao/sdk-core'
 import { FeeAmount } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'
 import { TickMath } from '../utils/tickMath'

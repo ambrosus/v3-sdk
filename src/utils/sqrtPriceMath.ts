@@ -1,4 +1,4 @@
-import { MaxUint256 } from '@sigismund/sdk-core'
+import { MaxUint256 } from '@airdao/sdk-core'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO, Q96 } from '../internalConstants'

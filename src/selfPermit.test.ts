@@ -1,4 +1,4 @@
-import { Token } from '@sigismund/sdk-core'
+import { Token } from '@airdao/sdk-core'
 import JSBI from 'jsbi'
 import { AllowedPermitArguments, SelfPermit, StandardPermitArguments } from './selfPermit'
 

@@ -1,6 +1,6 @@
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
-import { BigintIsh } from '@sigismund/sdk-core'
+import { BigintIsh } from '@airdao/sdk-core'
 import { TickMath } from '../utils'
 
 export interface TickConstructorArgs {

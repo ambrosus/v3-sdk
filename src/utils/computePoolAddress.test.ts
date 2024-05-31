@@ -1,4 +1,4 @@
-import { Token } from '@sigismund/sdk-core'
+import { Token } from '@airdao/sdk-core'
 import { FeeAmount } from '../constants'
 import { computePoolAddress } from './computePoolAddress'
 

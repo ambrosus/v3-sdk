@@ -1,4 +1,4 @@
-import { Price, Token } from '@sigismund/sdk-core'
+import { Price, Token } from '@airdao/sdk-core'
 import { tickToPrice } from './index'
 import { priceToClosestTick } from './priceTickConversions'
 

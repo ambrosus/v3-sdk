@@ -1,6 +1,6 @@
 import invariant from 'tiny-invariant'
 
-import { Currency, Price, Token } from '@sigismund/sdk-core'
+import { Currency, Price, Token } from '@airdao/sdk-core'
 import { Pool } from './pool'
 
 /**

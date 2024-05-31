@@ -1,4 +1,4 @@
-import { Percent, Token, CurrencyAmount, WETH9, Ether } from '@sigismund/sdk-core'
+import { Percent, Token, CurrencyAmount, WETH9, Ether } from '@airdao/sdk-core'
 import { FeeAmount, TICK_SPACINGS } from './constants'
 import { Pool } from './entities/pool'
 import { Position } from './entities/position'
